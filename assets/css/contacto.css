@@ -1,0 +1,130 @@
+.contacto {
+  background-color: #eaf2fd;
+  display: flex;
+  margin: 0 auto;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  width: 100%;
+}
+
+.contactoContainer {
+  display: flex;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.contacto__logo {
+  background-image: url(../img/logo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 176px;
+  height: 50px;
+}
+
+.contacto__logo:hover {
+  transform: scale(1.05, 1.05);
+  transition: 100ms;
+}
+
+.contacto__logoContainer {
+  display: flex;
+  width: 50%;
+}
+
+.contacto__logoContainer--img {
+  width: 50%;
+}
+
+.contacto__logoContainer--list {
+  height: 100%;
+  width: 50%;
+}
+
+.contacto__menu--item a {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  width: 100%;
+}
+
+.contacto__menu--item a:visited {
+  color: #464646;
+}
+
+.contacto__menu--item:hover {
+  transform: scale(1.02, 1.02);
+  transition: 100ms;
+}
+
+.contacto__menu--item a {
+  text-decoration: none;
+}
+
+.contacto__menu {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.formulario {
+  width: 50%;
+}
+.formulario__titulo {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+.formulario__nombre input {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 56px;
+  outline: none;
+  padding-left: 10px;
+  padding-top: 12px;
+  width: 100%;
+}
+
+.formulario__nombre input:focus {
+  border: 2px solid #2a7be48c;
+}
+
+.formulario__mensaje textarea {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+  height: 82px;
+  outline: none;
+  padding-left: 10px;
+  padding-top: 10px;
+  resize: none;
+}
+
+.formulario__mensaje textarea:focus {
+  border: 2px solid #2a7be48c;
+}
+
+.formulario__mensaje textarea::placeholder {
+  color: #a2a2a2;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.nombre__placeholder {
+  position: relative;
+  color: #a2a2a2;
+  font-family: "Raleway", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  bottom: 50px;
+  left: 10px;
+}

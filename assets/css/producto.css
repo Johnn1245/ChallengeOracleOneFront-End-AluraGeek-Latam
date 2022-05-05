@@ -1,0 +1,126 @@
+.productoSeleccionado {
+  background-color: #e5e5e5;
+  padding-bottom: 1vh;
+}
+.similaresShow {
+  background-color: #e5e5e5;
+  padding-bottom: 5vh;
+}
+
+.productoContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding-top: 4vh;
+  padding-bottom: 5vh;
+  width: 90%;
+}
+
+.producto__imgContainer {
+  width: fit-content;
+}
+
+.imgProducto {
+  object-fit: cover;
+}
+
+.producto__detailContainer {
+  width: 75%;
+  margin: auto 0 auto 2vw;
+}
+
+.detail__titulo {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 52px;
+  font-weight: 500;
+}
+
+.precioProducto {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 1.5vh;
+}
+
+.precioProducto::before {
+  color: #464646;
+  content: "$";
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 1.5vh;
+}
+
+.detail__description {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.prodsimContainer {
+  margin: 0 auto;
+  width: 90%;
+}
+.prodsimContainer h2 {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+.listaProdSimilar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1vw;
+}
+.productoSimilar {
+  display: none;
+  margin-top: 2vh;
+}
+
+.productoSimilar a {
+  text-decoration: none;
+}
+
+.productoSimilar img {
+  height: 174px;
+  width: 176px;
+  object-fit: cover;
+}
+
+.productoSimilar:hover {
+  transform: scale(1.03, 1.03);
+  transition: 200ms;
+}
+
+.nombreProdSimilar {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.precioProdSimilar {
+  color: #464646;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0.5vh;
+}
+.precioProdSimilar::before {
+  color: #464646;
+  content: "$";
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0.5vh;
+}
+.verProdSimilar {
+  color: #2a7ae4;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0.5vh;
+}

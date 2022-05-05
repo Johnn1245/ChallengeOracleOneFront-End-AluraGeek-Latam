@@ -1,0 +1,194 @@
+{
+  "usuario": [
+    {
+      "email": "alura@alura.com",
+      "password": "Alura123",
+      "id": "aR0p1T_"
+    },
+    {
+      "email": "julian@alura.com",
+      "password": "Julian123",
+      "id": "zbk-qZW"
+    }
+  ],
+  "producto": [
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "productoImg": "assets/img/producto1.png",
+      "categoriaPrincipal": "Star Wars",
+      "id": "b9daaf0a-8306-4d01-b7ee-ba2a5f05bb67"
+    },
+    {
+      "productoImg": "assets/img/producto2.png",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Star Wars"
+      ],
+      "id": "c50f763c-ddc2-4e81-aff7-a7148d541131"
+    },
+    {
+      "productoImg": "assets/img/producto3.png",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Star Wars"
+      ],
+      "id": "9a72f88e-1e81-4c81-a91b-758d80d0220d"
+    },
+    {
+      "productoImg": "assets/img/producto4.png",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Star Wars"
+      ],
+      "id": "41f98c6c-d71c-4d89-9a35-adbc0ad4fde8"
+    },
+    {
+      "productoImg": "assets/img/producto5.png",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Star Wars"
+      ],
+      "id": "9a72f88e-1e81-4c81-a91b-758d80d9220d"
+    },
+    {
+      "productoImg": "assets/img/producto6.png",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Star Wars"
+      ],
+      "id": "41f98c6c-d71c-4d89-9a35-adbc6ad4fde8"
+    },
+    {
+      "productoImg": "assets/img/consola1.png",
+      "nombre": "Control XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Consolas"
+      ],
+      "id": "b9daaf0a-8336-4d01-b7ee-ba2a5f05bb67"
+    },
+    {
+      "productoImg": "assets/img/consola2.png",
+      "nombre": "Control y consola XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Consolas"
+      ],
+      "id": "c50f763c-ddc2-4e21-aff7-a7148d541131"
+    },
+    {
+      "productoImg": "assets/img/consola3.png",
+      "nombre": "Consola XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Consolas"
+      ],
+      "id": "9a72f88e-1e81-4c81-a91b-758d80d0330d"
+    },
+    {
+      "productoImg": "assets/img/consola4.png",
+      "nombre": "Control XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Consolas"
+      ],
+      "id": "31f98c6c-d71c-4d89-9a35-adbc0ad4fde8"
+    },
+    {
+      "productoImg": "assets/img/consola5.png",
+      "nombre": "Consola XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Consolas"
+      ],
+      "id": "9a72g88e-1e81-4c81-a91b-758d80d9220d"
+    },
+    {
+      "productoImg": "assets/img/consola6.png",
+      "nombre": "Game Boy COlor",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Consolas"
+      ],
+      "id": "41f98c6c-e71c-4d89-9a35-adbc6ad4fde8"
+    },
+    {
+      "productoImg": "assets/img/diverso1.png",
+      "nombre": "Camisa Atari",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Diversos"
+      ],
+      "id": "b9dadf0a-8336-4d01-b7ee-ba2a5f05bb67"
+    },
+    {
+      "productoImg": "assets/img/diverso2.png",
+      "nombre": "Camisa SNES",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Diversos"
+      ],
+      "id": "c50f763c-ddc3-4e21-aff7-a7148d541131"
+    },
+    {
+      "productoImg": "assets/img/diverso3.png",
+      "nombre": "Control y consola XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Diversos"
+      ],
+      "id": "9a72f48e-1e81-4c81-a91b-758d80d0330d"
+    },
+    {
+      "productoImg": "assets/img/diverso4.png",
+      "nombre": "Control y consola XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Diversos"
+      ],
+      "id": "31f98c6c-d01c-4d89-9a35-adbc0ad4fde8"
+    },
+    {
+      "productoImg": "assets/img/diverso5.png",
+      "nombre": "Control y consola XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Diversos"
+      ],
+      "id": "9a72r88e-1e81-4c81-a91b-758d80d9220d"
+    },
+    {
+      "productoImg": "assets/img/diverso6.png",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum fugit sapiente quo cumque nisi reprehenderit! Amet odit quos nobis sit, praesentium consectetur obcaecati, dolore reiciendis repellendus minus porro accusamus. Tempora culpa quam sit odit? Esse adipisci voluptate dicta, minima sint doloribus sequi. Assumenda minima quam illum rem numquam, sunt nostrum distinctio? Blanditiis, nesciunt rem perspiciatis minus enim consequatur cupiditate.",
+      "categoriaPrincipal": [
+        "Diversos"
+      ],
+      "id": "41f48c6c-e71c-4d89-9a35-adbc6ad4fde8"
+    }
+  ]
+}
